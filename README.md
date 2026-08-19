@@ -28,7 +28,7 @@ Welcome to my GitHub profile! Here's a glimpse of my journey as a developer:
 ---
 
 ## 💌 Contact Me 
-- 📧 Email: v4t3rnom@gmail.com
+- 📧 Email: syed.atif.hussain4131@gmail.com
 - 💻 Discord: v4t3rnom
 
 ---
