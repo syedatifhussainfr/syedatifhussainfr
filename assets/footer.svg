@@ -1,1 +1,16 @@
-
+<svg width="1200" height="90" viewBox="0 0 1200 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.5" stop-color="#101820"/>
+      <stop offset="1" stop-color="#0B2A18"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="90" rx="22" fill="url(#bg)"/>
+  <text x="600" y="48" fill="#8B949E" text-anchor="middle"
+        font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17">
+    Build useful software. Keep learning. Keep shipping.
+  </text>
+  <circle cx="453" cy="43" r="4" fill="#3FB950"/>
+  <circle cx="747" cy="43" r="4" fill="#3FB950"/>
+</svg>
