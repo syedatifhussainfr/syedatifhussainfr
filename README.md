@@ -1,93 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,45:161B22,100:238636&text=SYED%20ATIF%20HUSSAIN&fontColor=F0F6FC&fontSize=42&fontAlignY=38&desc=Developer%20%7C%20AI%2FML%20Student%20%7C%20Building%20Useful%20Software&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Syed Atif Hussain banner"/>
+<img src="./assets/banner.svg" width="100%" alt="Syed Atif Hussain — Full-Stack Developer and AI/ML Student"/>
+
+<br/>
 
 <a href="https://github.com/syedatifhussainfr">
-  <img src="https://img.shields.io/github/followers/syedatifhussainfr?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=238636" alt="GitHub followers"/>
-</a>
-<a href="mailto:syed.atif.hussain4131@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/GitHub-syedatifhussainfr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://instagram.com/atifrizz">
-  <img src="https://img.shields.io/badge/Instagram-@atifrizz-238636?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-@atifrizz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:syed.atif.hussain4131@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=720&lines=I+build+full-stack+web+applications.;I+experiment+with+AI%2FML+and+automation.;I+turn+college+ideas+into+real+software.;Always+learning.+Always+shipping." alt="Typing introduction"/>
+<img src="https://img.shields.io/github/followers/syedatifhussainfr?style=flat-square&logo=github&label=Followers" alt="GitHub followers"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI%2FML-238636?style=flat-square" alt="Focus"/>
+<img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-0969DA?style=flat-square" alt="Status"/>
 
 </div>
 
 ---
 
-## `> whoami`
+## About me
 
 ```text
-Name        : Syed Atif Hussain
-Username    : syedatifhussainfr
-Also known  : v4t3rnom
-Focus       : Full-Stack Development + AI/ML
-Currently   : BCA AI/ML student
-Mindset     : Build → Break → Learn → Improve → Ship
+name       = Syed Atif Hussain
+username   = syedatifhussainfr
+alias      = v4t3rnom
+focus      = Full-Stack Development + AI/ML
+education  = BCA — AI/ML
+location   = Kolkata, India
+mindset    = Build → Break → Learn → Improve → Ship
 ```
 
-I enjoy building software that solves real problems — from authentication systems and developer tools to QR platforms, student utilities, automation experiments, and AI-powered applications.
+I'm a BCA AI/ML student and developer who likes turning ideas into working software.
 
-I care about clean interfaces, practical backend systems, security-conscious development, and projects that are actually usable beyond a demo.
+My projects usually sit somewhere between **web development, backend systems, AI/ML, automation, developer tools, and student-focused software**. I enjoy building complete products instead of stopping at a UI mock-up.
 
 ---
 
-## Tech I work with
-
-<div align="center">
+## Tech stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,python,c,cpp,java,html,css&perline=7" alt="Languages"/>
 
-### Backend, tools & platforms
-<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,vercel,windows&perline=7" alt="Tools and platforms"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-111820?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-111820?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-111820?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-111820?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-111820?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![HTML5](https://img.shields.io/badge/HTML5-111820?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111820?style=for-the-badge&logo=css&logoColor=663399)
 
-</div>
+### Backend & web
 
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-111820?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-111820?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-111820?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Vercel](https://img.shields.io/badge/Vercel-111820?style=for-the-badge&logo=vercel&logoColor=white)
 
-```js
-const atif = {
-  code: ["JavaScript", "Python", "C", "C++", "Java", "HTML", "CSS"],
-  backend: ["Node.js", "Express.js", "REST APIs"],
-  interests: ["AI/ML", "Automation", "Web Apps", "Security", "Developer Tools"],
-  currentlyLearning: ["AI systems", "data structures", "better backend architecture"],
-  goal: "Build things that are useful, polished, and worth showing."
-};
-```
+### Tools
+
+![Git](https://img.shields.io/badge/Git-111820?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111820?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-111820?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Windows](https://img.shields.io/badge/Windows-111820?style=for-the-badge&logo=windows11&logoColor=0078D4)
 
 ---
 
-## Featured builds
+## Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### QRVerse
-A modern QR generation + scanning platform with multiple QR types, customization, exports, history, verification tools, and a browser-friendly SDK.
 
-**Stack:** Node.js · Express · Vanilla JS · HTML · CSS
+A QR generation and scanning platform built around practical browser tooling and a clean web experience.
+
+**What it includes**
+- Multiple QR types
+- QR generation + scanning
+- File/image based scanning
+- Download/export workflow
+- Browser-friendly implementation
+
+**Stack:** Node.js · Express · JavaScript · HTML · CSS
 
 <a href="https://github.com/syedatifhussainfr/qr-verse">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="QRVerse repository"/>
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open QRVerse repository"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
 ### KalNest
-A Node.js authentication foundation with local accounts, Google sign-in, email verification, password recovery, session controls, and security-focused account flows.
 
-**Stack:** Node.js · JavaScript · Google OAuth · Gmail API
+An authentication-focused Node.js project exploring account flows, sessions, verification, password recovery, and modern sign-in systems.
+
+**Focus**
+- Authentication flows
+- Session handling
+- Google sign-in
+- Email verification
+- Account security
+
+**Stack:** Node.js · JavaScript · APIs
 
 <a href="https://github.com/syedatifhussainfr/KalNest">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="KalNest repository"/>
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open KalNest repository"/>
 </a>
 
 </td>
@@ -96,58 +119,62 @@ A Node.js authentication foundation with local accounts, Google sign-in, email v
 
 ---
 
-## What I'm building toward
-
-- Full-stack applications with stronger architecture and production-ready workflows
-- AI/ML projects that go beyond simple API wrappers
-- College-focused tools that solve real student and classroom problems
-- Automation systems that connect software, AI, browser tasks, and desktop workflows
-- Better open-source documentation, testing, security, and deployment practices
-
----
-
-## GitHub dashboard
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=syedatifhussainfr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&ring_color=238636" alt="Atif's GitHub stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedatifhussainfr&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=syedatifhussainfr&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="GitHub streak"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedatifhussainfr&theme=github_dark" width="92%" alt="GitHub profile summary"/>
-
-</div>
-
----
-
-## Current direction
+## What I'm working toward
 
 ```text
-01. Build useful software.
-02. Understand the system behind the interface.
-03. Write cleaner and safer code.
-04. Learn by shipping real projects.
-05. Keep improving every version.
+01  Build production-style full-stack applications
+02  Go deeper into AI/ML instead of only using API wrappers
+03  Improve backend architecture, security and testing
+04  Build software that solves actual student problems
+05  Get stronger at data structures, algorithms and systems
+06  Ship cleaner open-source projects with better documentation
 ```
 
 ---
 
-## Let's connect
+## Areas I enjoy
 
-I'm open to discussing software projects, student tech ideas, AI/ML experiments, web development, automation, and interesting open-source work.
+`Full-Stack Development` · `AI/ML` · `Automation` · `Backend Systems` · `Developer Tools` · `Web Security` · `Student Tech`
+
+---
+
+## GitHub
+
+Instead of depending on third-party GitHub-stat cards that can be paused or rate-limited, this profile links directly to GitHub for the source of truth.
+
+<p align="center">
+  <a href="https://github.com/syedatifhussainfr?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-238636?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
+  </a>
+  <a href="https://github.com/syedatifhussainfr?tab=stars">
+    <img src="https://img.shields.io/badge/VIEW_STARRED_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View starred repositories"/>
+  </a>
+</p>
+
+---
+
+## Current philosophy
+
+```js
+const developer = {
+  name: "Syed Atif Hussain",
+  build: ["web apps", "AI/ML experiments", "automation", "developer tools"],
+  approach: "understand it, build it, break it, improve it",
+  currently: "turning ideas into better software",
+  next: "something harder than the last project"
+};
+```
+
+---
+
+## Connect
 
 <p align="center">
   <a href="mailto:syed.atif.hussain4131@gmail.com">
     <img src="https://img.shields.io/badge/Email-syed.atif.hussain4131%40gmail.com-238636?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/syedatifhussainfr">
-    <img src="https://img.shields.io/badge/GitHub-syedatifhussainfr-181717?style=flat-square&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-@syedatifhussainfr-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://instagram.com/atifrizz">
     <img src="https://img.shields.io/badge/Instagram-@atifrizz-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -156,12 +183,10 @@ I'm open to discussing software projects, student tech ideas, AI/ML experiments,
 
 <div align="center">
 
-### “Build things you would actually want to use.”
+**Build things you would actually want to use.**
 
-<img src="https://komarev.com/ghpvc/?username=syedatifhussainfr&style=flat-square&color=238636&label=PROFILE+VIEWS" alt="Profile views"/>
+<br/>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,55:161B22,100:238636" width="100%" alt="Footer banner"/>
+<img src="./assets/footer.svg" width="100%" alt="Build useful software. Keep learning. Keep shipping."/>
 
 </div>
