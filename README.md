@@ -72,6 +72,65 @@ My projects usually sit somewhere between **web development, backend systems, AI
 
 ## Selected projects
 
+<div align="center">
+
+### AttendX
+
+**Secure, class-aware attendance operations for educational institutions**
+
+A full-stack attendance platform built to replace slow roll calls with controlled, recoverable, and accountable academic workflows.
+
+[![Release](https://img.shields.io/github/v/release/syedatifhussainfr/AttendX?style=for-the-badge&label=release&color=0b4a71)](https://github.com/syedatifhussainfr/AttendX/releases/latest)
+[![Tests](https://img.shields.io/badge/tests-46%20passing-238636?style=for-the-badge)](https://github.com/syedatifhussainfr/AttendX)
+[![Repository](https://img.shields.io/badge/OPEN_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedatifhussainfr/AttendX)
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Academic operations
+
+- Database-backed class workspaces
+- Class-scoped student rosters
+- Subjects and timetables
+- Faculty and mentor assignments
+- Live attendance sessions
+- Student and subject analytics
+
+</td>
+<td width="33%" valign="top">
+
+### Reliability
+
+- Recoverable attendance queue
+- Verified SQLite backups
+- Protected database restoration
+- In-process database reconnection
+- Human-readable Excel reports
+- Permanent audit history
+
+</td>
+<td width="33%" valign="top">
+
+### Security
+
+- Rotating refresh sessions
+- Role and permission hierarchy
+- Admin++ protected operations
+- Password-confirmed changes
+- Rate-limited uploads
+- Validated configuration policy
+
+</td>
+</tr>
+</table>
+
+**Stack:** React · Vite · Node.js · Express · Sequelize · SQLite · PostgreSQL
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -81,10 +140,11 @@ My projects usually sit somewhere between **web development, backend systems, AI
 A QR generation and scanning platform built around practical browser tooling and a clean web experience.
 
 **What it includes**
+
 - Multiple QR types
-- QR generation + scanning
-- File/image based scanning
-- Download/export workflow
+- QR generation and scanning
+- File and image-based scanning
+- Download and export workflow
 - Browser-friendly implementation
 
 **Stack:** Node.js · Express · JavaScript · HTML · CSS
@@ -101,6 +161,7 @@ A QR generation and scanning platform built around practical browser tooling and
 An authentication-focused Node.js project exploring account flows, sessions, verification, password recovery, and modern sign-in systems.
 
 **Focus**
+
 - Authentication flows
 - Session handling
 - Google sign-in
@@ -158,10 +219,17 @@ Instead of depending on third-party GitHub-stat cards that can be paused or rate
 ```js
 const developer = {
   name: "Syed Atif Hussain",
-  build: ["web apps", "AI/ML experiments", "automation", "developer tools"],
-  approach: "understand it, build it, break it, improve it",
-  currently: "turning ideas into better software",
-  next: "something harder than the last project"
+  build: [
+    "full-stack products",
+    "secure backend systems",
+    "AI/ML experiments",
+    "automation",
+    "developer tools"
+  ],
+  featuredProject: "AttendX",
+  approach: "understand it, build it, break it, improve it, ship it",
+  currently: "turning student problems into production-style software",
+  next: "something harder than the last release"
 };
 ```
 
