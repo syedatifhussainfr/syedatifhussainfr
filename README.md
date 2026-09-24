@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/GitHub-syedatifhussainfr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://instagram.com/atifrizz">
-  <img src="https://img.shields.io/badge/Instagram-@atifrizz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-@atifrizz-E4405F?style=for-the-badge&logo=instagramF&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:syed.atif.hussain4131@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -38,6 +38,8 @@ mindset    = Build → Break → Learn → Improve → Ship
 
 I'm a BCA AI/ML student and developer who likes turning ideas into working software.
 
+I'm currently building **AttendX**, a production-style attendance operations platform featuring database-backed class workspaces, secure authentication, recoverable attendance sessions, analytics, protected administration, and verified backup restoration.
+
 My projects usually sit somewhere between **web development, backend systems, AI/ML, automation, developer tools, and student-focused software**. I enjoy building complete products instead of stopping at a UI mock-up.
 
 ---
@@ -60,6 +62,11 @@ My projects usually sit somewhere between **web development, backend systems, AI
 ![Express](https://img.shields.io/badge/Express-111820?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-111820?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Vercel](https://img.shields.io/badge/Vercel-111820?style=for-the-badge&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/React-111820?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-111820?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Sequelize](https://img.shields.io/badge/Sequelize-111820?style=for-the-badge&logo=sequelize&logoColor=52B0E7)
+![SQLite](https://img.shields.io/badge/SQLite-111820?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111820?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 ### Tools
 
